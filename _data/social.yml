@@ -1,0 +1,12 @@
+- name: Github
+  link: 'https://github.com/aharoldk'
+  social_icon: Github
+  new_window: true
+- name: LinkedIn
+  link: 'https://www.linkedin.com/in/aharoldk/'
+  social_icon: Linkedin
+  new_window: true
+- name: Facebook
+  link: 'https://www.facebook.com/comfusionllc'
+  social_icon: Facebook
+  new_window: true
