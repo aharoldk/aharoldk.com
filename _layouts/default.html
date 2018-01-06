@@ -10,11 +10,11 @@
 		<meta name="generator" content="Jekyll v{{ jekyll.version }}">
 
 		<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" type="text/css">
-		<link rel="stylesheet" href="{{ site.url }}/css/main.css">
+		<link rel="stylesheet" href="{{ site.baseurl }}/css/main.css">
 
-    <link rel="apple-touch-icon" href="{{ site.url }}/images/apple-touch-icon.png">
-    <link rel="icon" type="image/png" href="{{ site.url }}/images/touch-icon.png" sizes="192x192">
-    <link rel="icon" type="image/png" href="{{ site.url }}/images/favicon.png">
+    <link rel="apple-touch-icon" href="{{ site.baseurl }}/images/apple-touch-icon.png">
+    <link rel="icon" type="image/png" href="{{ site.baseurl }}/images/touch-icon.png" sizes="192x192">
+    <link rel="icon" type="image/png" href="{{ site.baseurl }}/images/favicon.png">
 
     {% seo %}
     {% feed_meta %}
@@ -25,7 +25,7 @@
     <header id="header">
       <a href="{{ site.url }}" class="image avatar">
 				<center>
-					<img class="editable" src="{{ site.url }}/images/avatar.jpg" alt="{{ site.author.name }}">
+					<img class="editable" src="{{ site.baseurl }}/images/avatar.jpg" alt="{{ site.author.name }}">
 				</center>
 			</a>
 
@@ -77,11 +77,11 @@
       </ul>
     </footer>
 
-		<script src="{{ site.url }}/js/jquery.min.js"></script>
-		<script src="{{ site.url }}/js/jquery.poptrox.min.js"></script>
-		<script src="{{ site.url }}/js/skel.min.js"></script>
-		<script src="{{ site.url }}/js/util.js"></script>
-		<script src="{{ site.url }}/js/main.js"></script>
+		<script src="{{ site.baseurl }}/js/jquery.min.js"></script>
+		<script src="{{ site.baseurl }}/js/jquery.poptrox.min.js"></script>
+		<script src="{{ site.baseurl }}/js/skel.min.js"></script>
+		<script src="{{ site.baseurl }}/js/util.js"></script>
+		<script src="{{ site.baseurl }}/js/main.js"></script>
 
 		{% if jekyll.environment == 'production' and site.google_analytics_key != '' %}
 			<script>
