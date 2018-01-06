@@ -4,7 +4,7 @@ title: Kenapa Menggunakan Linux?
 categories: Linux
 date: 2018-01-05T14:37:44.000Z
 ---
-<img src="/images/fulls/1.png" class="fit image">
+<img src="{{ site.url }}/images/fulls/1.png" class="fit image">
 Linux merupakan salah satu sistem operasi meskipun tidak sepopuler windows dan mac os. Linux dibangun dengan model pengembangan gotong royong dengan melibatkan para relawan, komunitas, karyawan perusahaan, pemerintah, dan organisasi seluruh dunia. Teman-teman bisa ikut berkontribusi mengembangkan Linux.
 
 Saya sudah menggunakan Linux selama hampir 2 tahun, mulai dari ubuntu, mint dan sekarang udah setia dengan elementary os semoga langgeng sampe pernikahan ya. Alasan menggunakan Linux sebagai main os saya karena :
