@@ -1,7 +1,7 @@
 locale: "en-US"
 title: Alwandy Harold Kalangi Blog's # Title of your site
 url: "http://aharoldk.com" # the base hostname & protocol for your site
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "aharoldk.com" # the subpath of your site, e.g. /blog/
 google_analytics_key: ""
 
 # Default description in social shares for the jekyll-seo-tag gem
