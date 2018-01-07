@@ -1,14 +1,13 @@
 locale: "en-US"
 title: Alwandy Harold Kalangi Blog's # Title of your site
 url: "http://www.aharoldk.com" # the base hostname & protocol for your site
-baseurl: "https://aharoldk.github.io/aharoldk.com" # the subpath of your site, e.g. /blog/
+# baseurl: "https://aharoldk.github.io/aharoldk.com" # the subpath of your site, e.g. /blog/
+baseurl: "" 
 google_analytics_key: ""
 
 # Default description in social shares for the jekyll-seo-tag gem
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Halo teman-teman, ini merupakan web sederhana untuk study dan sharing
 
 # Author details for the jekyll-seo-tag gem
 author:

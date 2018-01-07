@@ -2,7 +2,7 @@
 layout: post
 title: Kenapa Menggunakan Linux?
 categories: Linux
-date: 2018-01-05T14:37:44.000Z
+date: 2018-01-06T14:37:44.000Z
 ---
 <img src="{{ site.baseurl }}/images/fulls/1.png" class="fit image">
 Linux merupakan salah satu sistem operasi meskipun tidak sepopuler windows dan mac os. Linux dibangun dengan model pengembangan gotong royong dengan melibatkan para relawan, komunitas, karyawan perusahaan, pemerintah, dan organisasi seluruh dunia. Teman-teman bisa ikut berkontribusi mengembangkan Linux.
