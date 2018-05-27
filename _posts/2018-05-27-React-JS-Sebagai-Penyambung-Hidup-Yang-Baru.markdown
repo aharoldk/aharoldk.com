@@ -12,15 +12,15 @@ Jujur saya tidak pernah menggunakan javascript, menurut saya javascript perkemba
 React JS adalah library javascript yang dikembangkan dari Facebook dimana membantu user dalam membangun tampilan antarmuka pengguna web dan mobile apps. React JS hanya melakukan hal yang berkaitan dengan tampilan dan logika untuk tampilannya.
 
 Mengapa harus menggunakan React JS?
-1. React JS mudah di pahami.
+1. React JS mudah di pahami.<br>
     saya membutuhkan waktu sekitar 3 minggu untuk belajar menggunakan React JS. Atas rekomendasi teman yang sudah belajar React JS menyuruh saya untuk belajar es5 dan es6 terlebih dahulu. Setelah belajar es5 dan es6 baru saya masuk ke React JS.
     <br>
     Menurut saya React JS sangat mudah di pahami karena saya sudah terlebih dahulu belajar es5 dan es6. Dengan belajar es5 dan es6 kita dapat lebih mudah memahami React JS.
-2. Menggunakan Konsep Components.
+2. Menggunakan Konsep Components.<br>
     Pada penggunaan React J, menurut saya konsep Components sangat membantu saya dalam develope karena membantu saya untuk memecah kode saya menjadi lebih kecil dan bisa digunakan berkali-kali bila dibutuhkan di code yang lain.
-3. Data Elements yang berubah-ubah.
+3. Data Elements yang berubah-ubah.<br>
     Apabila data elements pada aplikasi berubah-ubah maka kamu dapat dengan mudah untuk maintenancenya.
-4. Learn Once, Write Anywhere.
+4. Learn Once, Write Anywhere.<br>
     Dengan kamu belajar Reactj JS maka sudah dapat juga membuat code di React Native. Ini sama saja dengan menggayung sekali, 2-3 pulau terseberangi. Mantap kan? hahaha
 
 Instalasi React JS. <br>
