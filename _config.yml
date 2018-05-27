@@ -3,7 +3,7 @@ title: Alwandy Harold Kalangi Blog's # Title of your site
 url: "http://www.aharoldk.com" # the base hostname & protocol for your site
 # baseurl: "https://aharoldk.github.io/aharoldk.com" # the subpath of your site, e.g. /blog/
 baseurl: "" 
-google_analytics_key: ""
+google_analytics_key: "UA-119952784-1"
 
 # Default description in social shares for the jekyll-seo-tag gem
 description: > # this means to ignore newlines until "baseurl:"
